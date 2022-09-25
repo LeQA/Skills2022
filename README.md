@@ -1,6 +1,23 @@
 # Seminar on Software Systems, Technologies and Security (Skills exam 2022)
 **Task 1 -- GitHub Skills Test**
 
+Resource
+
+ - Adding local folder to Github  [Adding locally hosted code to GitHub - GitHub Docs](https://docs.github.com/en/get-started/importing-your-projects-to-github/importing-source-code-to-github/adding-locally-hosted-code-to-github)]
+ 
+Task preparation:
+
+ - Linux VM
+ - Git
+ - Web browser
+
+Task implement
+ - Create an repository on github and upload local folder to it.
+
+Task troubleshooting
+
+- Git syntax and settings
+
 Newly create repository "Skills2022" on web browser
 
 ![image](https://user-images.githubusercontent.com/46795818/192131341-da37627e-4a90-4188-917a-a050b00f04f5.png)
