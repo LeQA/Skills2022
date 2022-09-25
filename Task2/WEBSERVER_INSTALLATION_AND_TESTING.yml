@@ -1,0 +1,28 @@
+---
+- hosts: localhost
+  become: true
+  tasks:
+   - name: Update apt
+     shell: apt-get update
+     
+   - name: install apache2
+     apt: name=apache2 update_cache=yes state=latest
+     
+   - name: Start apache2 service
+     shell: systemctl start apache2
+     
+   - name: Ping!
+     ping:
+   
+   - name: Ping (shell)
+     shell: ping -c 5 127.0.0.1
+     register: ping
+     
+   - name: Insert homepage
+     copy:
+       src: index.html
+       dest: /var/www/html
+         
+   - debug:
+       var: "ping.stdout"
+
