@@ -1,0 +1,6 @@
+git init #initiate git on folder
+git add .
+git commit -m "Comment"
+git branch -M main 
+git remote add origin https://github.com/LeQA/Skills2022.git
+git push -u origin main
