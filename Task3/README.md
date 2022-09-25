@@ -5,8 +5,11 @@
  2. Adapt configuration elements according to your network context
  3. Take screenshots indicating the success of your actions and save script files and related docs.
 
-Resource [https://github.com/cturra/docker-ntp](https://github.com/cturra/docker-ntp)
+Resources
 
+- NTP-server [[cturra/docker-ntp: 🕒 Chrony NTP Server running in a Docker container (without the priviledged flag) (github.com)](https://github.com/cturra/docker-ntp)](https://github.com/cturra/docker-ntp)
+ - Docker [[Install Docker Engine on Ubuntu | Docker Documentation](https://docs.docker.com/engine/install/ubuntu/)(https://docs.docker.com/engine/install/ubuntu/)
+ 
 Pull docker image with command 
 
 `docker pull cturra/ntp`
