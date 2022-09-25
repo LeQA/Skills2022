@@ -9,6 +9,10 @@ Resources
  - Python [Download Python | Python.org](https://www.python.org/downloads/)
  - Python's unittest [unittest — Unit testing framework — Python 3.10.7 documentation](https://docs.python.org/3/library/unittest.html)
 
+Tester program result
+
+![image](https://user-images.githubusercontent.com/46795818/192137802-443aeeb4-8898-4eb8-a0c9-5dabc4695819.png)
+
 Task preparation:
 
  - Linux VM
