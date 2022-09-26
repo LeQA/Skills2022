@@ -1,5 +1,7 @@
-# Seminar on Software Systems, Technologies and Security (Skills exam 2022)
-**Task 1 -- GitHub Skills Test**
+## Task 1 -- GitHub Skills Test ##
+
+Create a folder “Skills2022” in your DEVASC virtual machine and start a git 
+repository.
 
 Resource
 
