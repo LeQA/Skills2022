@@ -1,6 +1,6 @@
 ## Seminar on Software Systems, Technologies and Security
 
-[**Task 1 -- GitHub Skills Test**](https://github.com/LeQA/Skills2022/)
+[**Task 1 -- GitHub Skills Test**](https://github.com/LeQA/Skills2022/tree/main/Task1)
 
 [**Task 2 -- Ansible Skills Test**](https://github.com/LeQA/Skills2022/tree/main/Task2)
 
