@@ -1,29 +1,11 @@
-## Task 1 -- GitHub Skills Test ##
+## Seminar on Software Systems, Technologies and Security
 
-Create a folder “Skills2022” in your DEVASC virtual machine and start a git 
-repository.
+[**Task 1 -- GitHub Skills Test**](https://github.com/LeQA/Skills2022/)
 
-Resource
+[**Task 2 -- Ansible Skills Test**](https://github.com/LeQA/Skills2022/tree/main/Task2)
 
- - Adding local folder to Github  [Adding locally hosted code to GitHub - GitHub Docs](https://docs.github.com/en/get-started/importing-your-projects-to-github/importing-source-code-to-github/adding-locally-hosted-code-to-github)]
- 
-Task preparation:
+[**Task 3 -- Docker**](https://github.com/LeQA/Skills2022/tree/main/Task3)
 
- - Linux VM
- - Git
- - Web browser
+[**Task 4 -- Jenkins**](https://github.com/LeQA/Skills2022/tree/main/Task4)
 
-Task implement
- - Create an repository on github and upload local folder to it.
-
-Task troubleshooting
-
-- Git syntax and settings
-
-Newly create repository "Skills2022" on web browser
-
-![image](https://user-images.githubusercontent.com/46795818/192131341-da37627e-4a90-4188-917a-a050b00f04f5.png)
-
-Push local folder to github repository
-
-![1](https://user-images.githubusercontent.com/46795818/192131488-949641b0-5c4b-4a97-ad56-810066e2da38.png)
+[**Task 5 -- Unit Testing**](Task%205%20--%20Unit%20Testing)
